@@ -1,0 +1,15 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "sandpit for promises and concurrency",
+  "main": "index.js",
+  "author": "Tom Stagg",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "aws-sdk": "^2.601.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "tiny-async-pool": "^1.1.0"
+  }
+}
