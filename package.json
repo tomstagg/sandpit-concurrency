@@ -6,7 +6,7 @@
   "author": "Tom Stagg",
   "license": "UNLICENSED",
   "devDependencies": {
-    "aws-sdk": "^2.601.0"
+    "aws-sdk": "^2.814.0"
   },
   "dependencies": {
     "bluebird": "^3.7.2",
